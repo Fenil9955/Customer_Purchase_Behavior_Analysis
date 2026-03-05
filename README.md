@@ -3,6 +3,7 @@ Data analytics project analyzing customer purchase behavior using Python, SQL, a
 
 **Overview**
 This project analyzes customer purchasing behavior using a dataset of 3,900 transactions. The objective is to identify trends in customer demographics, product preferences, spending patterns, and subscription behavior to support data-driven business decisions.
+
 The project follows a complete data analytics workflow including data cleaning, exploratory data analysis (EDA), SQL-based analysis, and dashboard visualization.
 
 **Dataset**
@@ -14,34 +15,34 @@ The dataset contains customer transaction records with 18 columns including:
 
 
 **Tools & Technologies**
-Python (Pandas, NumPy) – Data cleaning and EDA
-PostgreSQL – SQL analysis
-Power BI – Dashboard visualization
-Jupyter Notebook – Analysis workflow
-PowerPoint / Report – Presentation of findings
+* Python (Pandas, NumPy) – Data cleaning and EDA
+* PostgreSQL – SQL analysis
+* Power BI – Dashboard visualization
+* Jupyter Notebook – Analysis workflow
+* PowerPoint / Report – Presentation of findings
 
 **Project Workflow**
-Data Loading & Exploration – Imported dataset and examined structure using Python.
-Data Cleaning – Handled missing values, standardized column names, and performed feature engineering.
-SQL Analysis – Used PostgreSQL to analyze revenue trends, customer segments, and product performance.
-Dashboard Creation – Built an interactive Power BI dashboard to visualize key insights.
-Reporting – Summarized results and recommendations in a report and presentation.
+* Data Loading & Exploration – Imported dataset and examined structure using Python.
+* Data Cleaning – Handled missing values, standardized column names, and performed feature engineering.
+* SQL Analysis – Used PostgreSQL to analyze revenue trends, customer segments, and product performance.
+* Dashboard Creation – Built an interactive Power BI dashboard to visualize key insights.
+* Reporting – Summarized results and recommendations in a report and presentation.
 
 **Dashboard**
 The Power BI dashboard highlights:
-Revenue distribution by demographics
-Product category performance
-Customer segmentation (New, Returning, Loyal)
-Subscription vs non-subscription spending patterns
+* Revenue distribution by demographics
+* Product category performance
+* Customer segmentation (New, Returning, Loyal)
+* Subscription vs non-subscription spending patterns
 
 **Key Insights**
-Certain age groups generate higher revenue.
-Subscribers tend to spend more consistently than non-subscribers.
-Discount strategies influence purchasing behavior.
-Loyal customers contribute significantly to long-term revenue.
+* Certain age groups generate higher revenue.
+* Subscribers tend to spend more consistently than non-subscribers.
+* Discount strategies influence purchasing behavior.
+* Loyal customers contribute significantly to long-term revenue.
 
 **How to Run**
-Load the dataset in Python.
-Perform data cleaning and EDA using the provided notebook.
-Export the cleaned data to PostgreSQL for SQL analysis.
-Connect the dataset to Power BI to view the dashboard.
+* Load the dataset in Python.
+* Perform data cleaning and EDA using the provided notebook.
+* Export the cleaned data to PostgreSQL for SQL analysis.
+* Connect the dataset to Power BI to view the dashboard.
