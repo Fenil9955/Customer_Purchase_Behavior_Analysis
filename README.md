@@ -7,10 +7,10 @@ The project follows a complete data analytics workflow including data cleaning, 
 
 **Dataset**
 The dataset contains customer transaction records with 18 columns including:
-Customer demographics (Age, Gender, Location, Subscription Status)
-Purchase information (Item Purchased, Category, Purchase Amount, Season)
-Shopping behavior (Discount Applied, Previous Purchases, Review Rating, Shipping Type)
-Missing values in the Review Rating column were handled during the data cleaning process. 
+* Customer demographics (Age, Gender, Location, Subscription Status)
+* Purchase information (Item Purchased, Category, Purchase Amount, Season)
+* Shopping behavior (Discount Applied, Previous Purchases, Review Rating, Shipping Type)
+* Missing values in the Review Rating column were handled during the data cleaning process. 
 
 
 **Tools & Technologies**
