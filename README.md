@@ -3,7 +3,6 @@ Data analytics project analyzing customer purchase behavior using Python, SQL, a
 
 **Overview**
 This project analyzes customer purchasing behavior using a dataset of 3,900 transactions. The objective is to identify trends in customer demographics, product preferences, spending patterns, and subscription behavior to support data-driven business decisions.
-
 The project follows a complete data analytics workflow including data cleaning, exploratory data analysis (EDA), SQL-based analysis, and dashboard visualization.
 
 **Dataset**
